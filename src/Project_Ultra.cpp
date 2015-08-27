@@ -1,7 +1,6 @@
 
 //date --set="27 Aug 2015 16:00:00"
 
-
 //Opencv
 #include <opencv2/opencv.hpp>
 #include "opencv2/imgproc/imgproc.hpp"
