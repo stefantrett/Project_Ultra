@@ -1,5 +1,5 @@
 
-//date --set="27 Aug 2015 16:00:00"
+//date --set="01 Sep 2015 16:00:00"
 
 //Opencv
 #include <opencv2/opencv.hpp>
@@ -474,4 +474,3 @@ Mat faceDetect(Mat img) {
 
 	return finalSizeImg;
 }
-
